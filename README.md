@@ -36,13 +36,13 @@ IHCSurv: Effective Immunohistochemistry Priors for Cancer Survival Analysis in G
 
 
 
-### Code and dataset is pending approval for release. Thank you for your patience.
+### 🔔🔔🔔 Code and dataset is pending approval for release. Thank you for your patience.
 
 
 
 ## Acknowledgements, License & Usage 
 - Please open new threads or report issues to Charley's email: chazhang0310@gmail.com
-- If you found our work useful in your research, please consider citing our works(s):
+- If you found our work useful in your research, please consider citing:
 ```bash
 @inproceedings{zhang2023ihcsurv,
   title        = {{IHCSurv}: Effective Immunohistochemistry Priors for Cancer Survival Analysis in Gigapixel Multi-stain Whole Slide Images},
