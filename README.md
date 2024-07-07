@@ -1,5 +1,3 @@
-# miccai24-ihcsurv
-
 IHCSurv: Effective Immunohistochemistry Priors for Cancer Survival Analysis in Gigapixel Multi-stain Whole Slide Images
 ===========
 <details>
